@@ -62,7 +62,7 @@ public class FrontDesk {
                     //myVideoStore.doReturn(videoName);
                     break;
 
-                default:
+                default :
             }
         } while (studentInput != EXIT);
         scannerObject.close();
